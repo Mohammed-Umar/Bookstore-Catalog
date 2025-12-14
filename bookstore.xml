@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bookstore>
+    <Book id="B001">
+    <Title>The Psychology of Money</Title>
+    <Author>Morgan Housel</Author>
+    <Genre>Finance / Self-Help</Genre>
+    <Year>2020</Year>
+    <ISBN>9780857197689</ISBN>
+    <Price>18.99</Price>
+    <Image>images/psychologyofmoney.jpg</Image>
+    <Description>
+        Explores the behavioral aspects of money, investing, and personal finance,
+        emphasizing how decisions and habits shape financial success more than knowledge alone.
+    </Description>
+</Book>
+
+
+
+    <Book id="B002">
+        <Title>The Alchemist</Title>
+        <Author>Paulo Coelho</Author>
+        <Genre>Fiction</Genre>
+        <Year>1988</Year>
+        <ISBN>9780062315007</ISBN>
+        <Price>11.99</Price>
+        <Image>images/alchemist.jpg</Image>
+        <Description>
+            A philosophical novel about a shepherd named Santiago who follows
+            his dreams in search of treasure and discovers the meaning of life.
+        </Description>
+    </Book>
+
+   <Book id="B003">
+    <Title>Atomic Habits</Title>
+    <Author>James Clear</Author>
+    <Genre>Self-Help</Genre>
+    <Year>2018</Year>
+    <ISBN>9780735211292</ISBN>
+    <Price>16.99</Price>
+    <Image>images/atomichabits.jpg</Image>
+    <Description>
+        A practical guide on how tiny changes can lead to remarkable results,
+        showing how to build good habits and break bad ones for lasting personal transformation.
+    </Description>
+</Book>
+<Book id="B004">
+    <Title>Sapiens: A Brief History of Humankind</Title>
+    <Author>Yuval Noah Harari</Author>
+    <Genre>History / Non-Fiction</Genre>
+    <Year>2011</Year>
+    <ISBN>9780062315007</ISBN>
+    <Price>22.50</Price>
+    <Image>images/sapiens.jpg</Image>
+    <Description>
+        A sweeping exploration of human history, examining how Homo sapiens
+        evolved from an insignificant ape into the planet's dominant species.
+    </Description>
+</Book>
+</Bookstore>
